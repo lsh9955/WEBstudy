@@ -3,7 +3,7 @@
   2. https://poiemaweb.com/js-object
 
 
-## 1. 메소드 정의
+## 0. 메소드 정의
 객체의 프로퍼티 중 함수인 것  
 
 ## 1. this?
