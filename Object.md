@@ -2,44 +2,21 @@
   1. https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/Working_with_Objects
   2. https://poiemaweb.com/js-object
 
-### 이걸 만든 이유?
-HTML요소에 접근할 때, 왜 .을 왜 붙임?
-this와 class가 뭔지 이해가 하나도 안감.
-.을 붙이는 이유?
-DOM이기 때문.
-그 전에,
 ## 1. 객체가 뭐임?
 객체-프로퍼티의 모음, 단독으로 존재 가능한 개체(entity)  
 프로퍼티와 타입을 가짐  
-타입이 뭔데?  
-
 자바스크립트에서는 null, undefined를 제외한 모든 원시 타입도 객체임  
 ## 2. 프로퍼티?
-프로퍼티-이름(name 또는 key) 과 값(value)의 연결로 이루어짐,
-객체에 붙은 변수라고 할 수 있음
-왜?
-```
-let obj={}
-undefined
-obj.make = "food"
-console.log를 찍으면
-"food"
-obj.make = "car"
-console.log를 찍으면
-"car"
-console.log(obj.make)
-car
-```
-이렇게 변함
-
-프로퍼티에 접근할 때-도트 표기법을 이용
+* 프로퍼티-이름(name 또는 key) 과 값(value)의 연결로 이루어짐  
+  =객체에 붙은 변수라고 할 수 있음  
+* 메소드-프로퍼티 중 값이 함수인 것  
+프로퍼티에 접근할 때-도트 표기법을 이용  
+```javascript
 objName.propertyName
 myCar.make = "Ford";
-
-! 메소드-프로퍼티 중 값이 함수인 것
-
-대괄호 표기법도 가능
--객체는 연관배열이라고도 불리는데
+```
+대괄호 표기법도 가능  
+객체는 연관배열이라고도 불리는데
 각 프로퍼티는 하나의 문자열 이름과 연관되어 있어서, 그 문자열 이름을 통해 접근이 가능하기 때문. 배열접근과 같은 방식임
 myCar["model"] = "Mustang";
 
@@ -53,7 +30,7 @@ myCar["model"] = "Mustang";
 또 이게 뭔 개소리냐?
 
 객체 이니셜라이저(이니셜라이저라는 것은 초기화라는 뜻임)
-```
+```javascript
 var obj = { property_1:   value_1,   // property_# may be an identifier...
             2:            value_2,   // or a number...
             // ...,
@@ -99,7 +76,6 @@ prototype 프로퍼티를 이용해서, 미리 정의된 객체 타입에 속성
 근데 이건 해당 객체 타입의 모든 인스턴스가 갖게 됨.
 ex) Car.prototype.color = null;
 
-메소드 정의
-객체의 프로퍼티 중 함수인 것-메소드
-여기서의 this
-해당 메소드가 속한 개체를 가리킴
+
+
+
