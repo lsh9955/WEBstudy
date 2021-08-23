@@ -18,7 +18,7 @@ new에 의해 자동으로 호출됨. 특별한 절차 없이 객체 초기화�
  자바스크립트에서는, 함수의 한 종류임.
  * class Name {...} 가 하는 일  
  1. Name 이라는 이름을 가진 **함수**를 만듬
- 2. 함수 본문은 constructor ? constructor 에서 가져옴 : 본문이 비워진 채로 함수가 만들어짐
+ 2. 함수 본문은 constructor 가 있다면 constructor 에서 가져옴. 없다면 본문이 비워진 채로 함수가 만들어짐
  3. 클래스 내에서 정의한 매서드를 Name.prototype에 저장함.
  4. 그래서 Name === Name.prototype.constructor true임
 
