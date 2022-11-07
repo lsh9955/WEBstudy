@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T08:42:34.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HXANVV4xDHTbrFBfxVUi" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-07T08:52:47.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eIABI6ROvXfqESvzylx1" version="20.5.3" type="github">
   <diagram id="NgXXiiGZurJ3mQihiitO" name="페이지-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,9 +252,6 @@
             <mxPoint x="650" y="4320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r0jGn7D__o3RvwU8zBS9-6" value="hover" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="4300" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="r0jGn7D__o3RvwU8zBS9-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="680" y="4220" width="260" height="260" as="geometry" />
         </mxCell>
@@ -271,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r0jGn7D__o3RvwU8zBS9-10" value="click" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="562.5" y="4540" width="60" height="30" as="geometry" />
+          <mxGeometry x="540" y="4290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r0jGn7D__o3RvwU8zBS9-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="780" y="4650" width="260" height="260" as="geometry" />
@@ -287,6 +284,39 @@
         </mxCell>
         <mxCell id="r0jGn7D__o3RvwU8zBS9-15" value="내가 클릭한 횟수" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="422.16999999999996" y="4800" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="4950" width="351.24" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="5020" width="700" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-18" value="Web" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="4970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-19" value="PWA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="4910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-20" value="double click" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="4520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r0jGn7D__o3RvwU8zBS9-21" target="r0jGn7D__o3RvwU8zBS9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r0jGn7D__o3RvwU8zBS9-21" target="r0jGn7D__o3RvwU8zBS9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-21" value="사진 넣음&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;=&amp;gt;분류" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="4240" width="530" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-22" value="tenserflow 이용" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="4405" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-24" value="커피사진&lt;br&gt;커피로 분류" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="4210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r0jGn7D__o3RvwU8zBS9-26" value="풍경사진&lt;br&gt;풍경으로 분류" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="4670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
