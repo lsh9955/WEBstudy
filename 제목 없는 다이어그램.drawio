@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T01:38:37.034Z" agent="5.0 (Linux; Android 12; SM-G996N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36" etag="PswiMUbu3zsjD4iq-s4d" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T01:58:34.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5vLnx4NFbJkZRtcgxd5S" version="20.5.3" type="github">
   <diagram id="NgXXiiGZurJ3mQihiitO" name="페이지-1">
-    <mxGraphModel dx="945" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -383,8 +383,11 @@
         <mxCell id="MdgBpFPuBy0ao-8a3hpe-1" value="&amp;lt;div/&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=64;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="415.5" y="4020" width="214.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iV3eDKL7-nyduU8KlD5_-1" value="당신이 잠든 사이에&amp;nbsp; 해당 시간이 되면 새벽까페 추천" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="iV3eDKL7-nyduU8KlD5_-1" value="당신이 잠든 사이에&amp;nbsp; 해당 시간이 되면 새벽까페 추천" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="760" y="5650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4E302aT8UWkW50dyZxjq-1" value="새벽까페&lt;br&gt;좋아하는 메뉴가 있는&lt;br&gt;책읽기 좋은&lt;br&gt;커피가 맛있는&lt;br&gt;케이크가 맛있는?&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="5845" width="370" height="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
