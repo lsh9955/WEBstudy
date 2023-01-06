@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T03:37:46.609Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="Dyj6PCa1UrH5Ft736q7X" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T04:04:49.303Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="QTe45hzo_KAtoo4mM391" type="github">
   <diagram id="1mAUagJcQof7GUXpI7ym" name="페이지-1">
-    <mxGraphModel dx="724" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g4_Q5DdPAnEW32tg02q0-2" value="냉장고 재료를 활용하여 실시간으로 같이 요리하는 서비스" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4_Q5DdPAnEW32tg02q0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g4_Q5DdPAnEW32tg02q0-3" target="g4_Q5DdPAnEW32tg02q0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4_Q5DdPAnEW32tg02q0-3" value="실시간 화면공유를 통해&lt;br&gt;요리 학습 및 공유" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g4_Q5DdPAnEW32tg02q0-4" value="참여시 뱃지 및 포인트 지급" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g4_Q5DdPAnEW32tg02q0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g4_Q5DdPAnEW32tg02q0-6" target="g4_Q5DdPAnEW32tg02q0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4_Q5DdPAnEW32tg02q0-6" value="현재 냉장고에 가진 재료를&lt;br&gt;&#39;나의 냉장고&#39; 에 저장" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g4_Q5DdPAnEW32tg02q0-7" value="다른 사용자들의 요리 추천&lt;br&gt;내 재료 파악 가능" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
